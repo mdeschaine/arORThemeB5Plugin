@@ -63,7 +63,7 @@
             <a href="#" class="btn btn-primary">Learn More</a>
         </div>
         </div>
-    </div>
+    
     </div>
     <div class="col-sm-4">
         <div class="card">
@@ -73,6 +73,7 @@
             <a href="#" class="btn btn-primary">Go somewhere</a>
         </div>
         </div>
+    </div>
     </div>
 </div>
 
