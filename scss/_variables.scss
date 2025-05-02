@@ -3,8 +3,8 @@ $atom-gray-box-shadow: 0 0 0 0.25rem #ced4da !default;
 $proxima-nova: "proxima-nova", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
 $raleway: "raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
 $clavo: "clavo", Georgia, Times, "Times New Roman", serif;
-
 $white: #ffffff;
+
 $theme-colors: (
     "light":      #d8dede,
     "dark":       #232d33,
@@ -33,8 +33,8 @@ $gray-900: #212529 !default;
 $black: #000 !default;
 $orange: #c44e00 !default;
 $blue: #0a58ca !default;
-$primary: #002d4e;
-$secondary: #b83d24;
+$primary: $orange;
+$secondary: $gray-700;
 $body-bg: $gray-100 !default;
 $input-bg: $white !default;
 $navbar-dark-color: $white !default;
